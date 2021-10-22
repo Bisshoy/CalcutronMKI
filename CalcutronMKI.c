@@ -5,7 +5,7 @@ int main() {
     int count2; 
     char operator; 
 
-    printf("Please enter an operator (+ OR - OR * OR /): ");
+    printf("Please enter an operator [+ OR - OR * OR /]: ");
     scanf("%c", &operator);
 
     printf("Please enter two numbers: "); 
