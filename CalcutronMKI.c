@@ -1,4 +1,4 @@
-// Completed on September 21, 2021
+// completed on September 21, 2021
 // Bisshoy Anwar 
 
 #include <stdio.h> 
